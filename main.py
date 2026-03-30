@@ -99,4 +99,4 @@ with d_col4:
 with d_col5:
     food_item("DEAL 5: Medium Pizza + Zinger + 1L Drink", "1550", "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=500")
 with d_col6:
-    # ڈیل 6: 3 زنگر والی ڈیل میں
+
