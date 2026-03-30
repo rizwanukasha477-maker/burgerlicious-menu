@@ -35,7 +35,7 @@ def item(name, price, img):
         </div>
     </div>""", unsafe_allow_html=True)
 
-# --- 🍔 برگرز اور سینڈوچز ---.
+# --- 🍔 برگرز اور سینڈوچز ---
 st.markdown("<div class='category-title'>🍔 BURGERS & SANDWICHES</div>", unsafe_allow_html=True)
 b1, b2, b3, b4 = st.columns(4)
 with b1: item("Zinger Burger", "380", "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=400")
